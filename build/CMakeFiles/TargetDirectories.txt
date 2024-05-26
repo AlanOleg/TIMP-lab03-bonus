@@ -1,0 +1,3 @@
+/home/oleg/AlanOleg/workspace/projects/lab03_bonus/build/CMakeFiles/Print.dir
+/home/oleg/AlanOleg/workspace/projects/lab03_bonus/build/CMakeFiles/edit_cache.dir
+/home/oleg/AlanOleg/workspace/projects/lab03_bonus/build/CMakeFiles/rebuild_cache.dir

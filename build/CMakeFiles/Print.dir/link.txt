@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Print.dir/main.cpp.o -o Print 
